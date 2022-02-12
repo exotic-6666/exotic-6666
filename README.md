@@ -14,6 +14,10 @@
 
 - 🚀 **[Andymated](https://andymated.gitbook.io/)**
 
+- 🌱 **[Slashy Hosting](https://billing.slashy.host/aff.php?aff=99)**
+
+
+
 ## 🚀 Languages and Tools:
 
 <p align="center"> 
