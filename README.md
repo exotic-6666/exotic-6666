@@ -17,6 +17,8 @@
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
    </a>
+    <a href="https://www.lua.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/lua-logo.png"/> </a>
+   </a>
    </a> 
    </a> 
     <a href="https://www.w3.org/html/" target="_blank"> <img src="https://img.icons8.com/color/48/000000/html-5.png"/> </a> 
