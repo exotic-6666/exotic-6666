@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **More Java/Lua.**
 
-- 📫 How to reach me **Exotic#6666** Discord
+- 📫 How to reach me **[Exotic#6666](https://ayo.so/exoticc)** Discord
 
 ## 🚀 Languages and Tools:
 
