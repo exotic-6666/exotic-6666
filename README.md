@@ -17,7 +17,7 @@
 <p align="center"> 
     <a href="https://www.java.com" target="_blank"> <img src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png"/> </a>
    </a>
-    <a href="https://www.lua.org" target="_blank"> <img src="https://www.lua.org/images/luaa.gif"/> </a>
+    <a href="https://www.lua.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/lua/lua-plain.svg" alt="express" width="40" height="40"/> </a>
    </a>
    </a> 
    </a> 
