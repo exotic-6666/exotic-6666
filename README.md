@@ -6,17 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Useful-links](https://docs.useful-links.click)**
+- 🔭 I’m currently working on **[Legacy Networks](https://discord.com/invite/rYXPCemjnW)**
 
-- 🌱 I’m currently learning **More Java.**
+- 🌱 I’m currently learning **More Java/Lua.**
 
 - 📫 How to reach me **Exotic#6666** Discord
-
-- 🚀 **[Andymated](https://andymated.gitbook.io/)**
-
-- 🌱 **[Slashy Hosting](https://billing.slashy.host/aff.php?aff=99)**
-
-
 
 ## 🚀 Languages and Tools:
 
