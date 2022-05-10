@@ -3,7 +3,14 @@
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, I'm Exotic</h1>
 <h3 align="center">I'm sort of a developer</h3>
 
+## ❤ Views and Followers
 
+<p align="center"> 
+<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
+    <img src="https://komarev.com/ghpvc/?username=exotic-6666">
+</a>
+<a href="https://github.com/exotic-6666?tab=followers"><img src="https://img.shields.io/github/followers/exotic-6666?label=Followers&style=social" alt="GitHub Badge"></a>
+</p>
 ## 🙋‍♂️ About Me
 
 - 🔭 I’m currently working on **[RivertonRP](https://github.com/rivertonrp)**
@@ -56,9 +63,3 @@
 [![Exotic's github activity graph](https://activity-graph.herokuapp.com/graph?username=exotic-6666&theme=react-dark)](https://github.com/exotic-6666/github-readme-activity-graph)
 
 <br/>
-
-## ❤ Views and Followers
-<a href="https://github.com/Meghna-DAS/github-profile-views-counter">
-    <img src="https://komarev.com/ghpvc/?username=exotic-6666">
-</a>
-<a href="https://github.com/exotic-6666?tab=followers"><img src="https://img.shields.io/github/followers/exotic-6666?label=Followers&style=social" alt="GitHub Badge"></a>
