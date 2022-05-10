@@ -6,11 +6,11 @@
 
 ## 🙋‍♂️ About Me
 
-- 🔭 I’m currently working on **[Legacy Networks](https://discord.com/invite/rYXPCemjnW)**
+- 🔭 I’m currently working on **[RivertonRP](https://github.com/rivertonrp)**
 
 - 🌱 I’m currently learning **More Java/Lua.**
 
-- 📫 How to reach me **[Exotic#6666](https://ayo.so/exoticc)** Discord
+- 📫 How to reach me **[Here](https://ayo.so/exoticc)**
 
 ## 🚀 Languages and Tools:
 
