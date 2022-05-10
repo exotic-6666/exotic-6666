@@ -53,6 +53,8 @@
 
 <br/>
 
+[![Exotic's github activity graph](https://activity-graph.herokuapp.com/graph?username=exotic-6666&theme=react-dark)]
+
 <br/>
 
 ## Connect with me:
