@@ -57,12 +57,6 @@
 
 <br/>
 
-## Connect with me:
-<p align="left">
-
-<a href = "https://discord.gg/gZE8ScYR8J"><img src="https://img.icons8.com/fluent/48/000000/discord.png"/></a>
-</p>
-
 ## ❤ Views and Followers
 <a href="https://github.com/Meghna-DAS/github-profile-views-counter">
     <img src="https://komarev.com/ghpvc/?username=exotic-6666">
