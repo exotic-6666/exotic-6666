@@ -53,7 +53,7 @@
 
 <br/>
 
-[![Exotic's github activity graph](https://activity-graph.herokuapp.com/graph?username=exotic-6666&theme=react-dark)]
+[![Exotic's github activity graph](https://activity-graph.herokuapp.com/graph?username=exotic-6666&theme=react-dark)](https://github.com/exotic-6666/github-readme-activity-graph)
 
 <br/>
 
