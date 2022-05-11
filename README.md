@@ -18,7 +18,7 @@
 
 - 🌱 I’m currently learning **More Java/Lua.**
 
-- 📫 How to reach me **[Here](https://ayo.so/exoticc)**
+- 📫 How to reach me **[Here](https://exoticcg.dev/)**
 
 ## 🚀 Languages and Tools:
 
